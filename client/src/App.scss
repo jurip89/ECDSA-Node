@@ -20,6 +20,11 @@ label {
   flex-wrap: wrap;
   gap: 12px;
   margin: 0 auto;
+  .wallets{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
 }
 
 .container {
